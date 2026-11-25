@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://orcajae.github.io/sitemap.xml
 Sitemap: https://orcajae.github.io/backtest/sitemap.xml
+Sitemap: https://orcajae.github.io/valid-framework/sitemap.xml
