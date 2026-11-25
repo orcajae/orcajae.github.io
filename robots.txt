@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://orcajae.github.io/sitemap.xml
+Sitemap: https://orcajae.github.io/backtest/sitemap.xml
